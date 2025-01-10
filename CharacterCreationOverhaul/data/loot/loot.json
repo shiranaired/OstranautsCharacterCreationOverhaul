@@ -1,0 +1,10 @@
+[
+  {
+    "strName" : "CGEncShipbreakerEvent",
+    "aCOs"    : [
+      "CCOStartMenu=1.0x1"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "lifeevent"
+  },
