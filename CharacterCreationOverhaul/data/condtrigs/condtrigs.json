@@ -1,0 +1,5 @@
+[
+  { "strName" : "TDnAge", "strCondName" : "StatAge", "fChance" : 1.0, "fCount" : -1.0, "aReqs" : [ ], "aForbids" : [ ], "aTriggers" : [ ], "bAND" : true}, 
+  { "strName" : "TSetAge", "strCondName" : "StatAge", "fChance" : 1.0, "fCount" : -3.0, "aReqs" : [ ], "aForbids" : [ ], "aTriggers" : [ ], "bAND" : true },
+  { "strName" : "TUpAgeEvent", "strCondName" : "StatAge", "fChance" : 1.0, "fCount" : 0.2, "aReqs" : [ ], "aForbids" : [ ], "aTriggers" : [ ], "bAND" : true }
+]
